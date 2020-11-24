@@ -5,6 +5,6 @@
 
 ## Library Used
 #### Requests
-- To install requests, in your command line please run: pip install requests
+- [To install requests, in your command line please run: pip install requests] 
 
 ## Running the code
