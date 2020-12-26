@@ -9,8 +9,8 @@
 
 ## Running the code
 #### First run the following commands on the command line
-`$ export SPOTIFY_AUTHORIZATION_TOKEN=value_grabbed_from_spotify`
-`$ export SPOTIFY_USER_ID=value_grabbed_from_spotify`
+`$ export SPOTIFY_AUTHORIZATION_TOKEN=[copy-paste the value from spotify]` <br>
+`$ export SPOTIFY_USER_ID=[ copy-paste the value from spotify ] `
 
 #### Then finally run this on your command line
 
