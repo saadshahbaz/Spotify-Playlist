@@ -2,6 +2,7 @@ import os
 
 from spotifyclient import SpotifyClient
 
+
 def main():
     spotify_client = SpotifyClient(os.getenv("SPOTIFY_AUTHORIZATION_TOKEN"),
                                    os.getenv("SPOTIFY_USER_ID"))
